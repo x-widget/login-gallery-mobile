@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+	<id>widget login-gallery-mobile</id>
+	<type>widget</type>
+	<category>
+		<main>login</main>
+	</category>
+	<name>
+		<en>Gallery no. 1 Mobile Login</en>
+		<ko>커뮤니티 2번째 로그인</ko>
+	</name>
+	<version>0.2</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
+	<short>
+		<en>This login widget is for the theme - Gallery no. 1 Mobile</en>
+		<ko>커뮤니티 2번 용 로그인 위젯입니다.</ko>
+	</short>
+	<detail>
+		<en>This login widget is for the theme - Gallery no. 1 Mobile</en>
+		<ko>커뮤니티 2번 용 로그인 위젯입니다.</ko>
+	</detail>
+</config>
